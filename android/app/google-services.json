@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721288593181",
+    "project_id": "football-marketplace-eea35",
+    "storage_bucket": "football-marketplace-eea35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721288593181:android:ac0dffe65205fef10aabf4",
+        "android_client_info": {
+          "package_name": "com.example.footballmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721288593181-hvkd3pevdtlh1j88ibvakb0ghd3kev4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBA4iIkCHRMJ8VsBQqQtPbE1rborhzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721288593181-hvkd3pevdtlh1j88ibvakb0ghd3kev4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
